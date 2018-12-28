@@ -3,6 +3,8 @@
 
 # This repo CONTAINS spoilt content, please go [watch it](https://www.netflix.com/watch/80988062) first.
 
+For English verison, you can see reddit user post [here](https://www.reddit.com/r/blackmirror/comments/aa9oym/almost_4_hours_after_release_and_i_think_i_have/)
+
 If you are ready to contribute, feel free to copy XML file to draw.io and make your changes.
 
 This map is open-sourced under BSD-3 license, technically speaking, it's not code so maybe CC-BY-NA 4 is more suitable.
