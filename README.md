@@ -8,3 +8,5 @@ If you are ready to contribute, feel free to copy XML file to draw.io and make y
 This map is open-sourced under BSD-3 license, technically speaking, it's not code so maybe CC-BY-NA 4 is more suitable.
 
 This map is not complete yet, your contribution is welcome as long as it's valid. 
+
+![map.jpg](https://i.loli.net/2018/12/28/5c26425e632ff.jpg)
